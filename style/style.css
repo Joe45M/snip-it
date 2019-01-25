@@ -1,0 +1,98 @@
+body {
+  background: #0f0f0f;
+  color: #C6C6C6; }
+
+.heading {
+  padding: 3em 5em;
+  background-image: url("../assets/img/hero.jpg");
+  background-size: cover;
+  background-position: center; }
+  .heading p {
+    margin-bottom: 0; }
+  .heading .search-bar {
+    margin-top: 2em;
+    border-radius: 200px;
+    padding: .2rem; }
+    .heading .search-bar input {
+      display: inline;
+      width: 100%;
+      padding: 1rem;
+      border-radius: 100px;
+      border: none;
+      background: #0f0f0f;
+      color: #fff; }
+      .heading .search-bar input:focus {
+        outline: none;
+        padding: 1rem;
+        color: #C6C6C6;
+        font-weight: bold; }
+
+.snips {
+  margin-top: 20px; }
+  .snips .card {
+    background: #272727;
+    padding: 0; }
+    .snips .card-body {
+      padding: .5rem 0; }
+      .snips .card-body h5 {
+        padding-bottom: .5rem !important;
+        margin-bottom: 0;
+        box-shadow: 0px 7px 5px rgba(0, 0, 0, 0.2);
+        text-transform: uppercase; }
+      .snips .card-body p, .snips .card-body h5 {
+        padding: 0 1.25rem; }
+      .snips .card-body p {
+        padding-top: .5rem !important;
+        max-height: 500px;
+        overflow: auto; }
+      .snips .card-body pre {
+        color: #fff;
+        max-height: 500px; }
+      .snips .card-body button {
+        margin-top: 1.25rem;
+        margin: .625rem;
+        width: 94.5%;
+        background: #0f0f0f;
+        border: none; }
+
+h1.page-title {
+  font-weight: bold;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text !important;
+  background: linear-gradient(to right, orange, yellow, green, cyan, blue, violet);
+  display: inline-block;
+  color: inherit; }
+
+p {
+  color: inherit; }
+
+#clip-copy-off-screen {
+  height: 0;
+  width: 0;
+  resize: none;
+  border: none;
+  background: transparent;
+  overflow: hidden; }
+  #clip-copy-off-screen:focus {
+    outline: none;
+    border: none; }
+
+.pop-wrap {
+  display: none;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 1000;
+  top: 0;
+  background: #272727; }
+  .pop-wrap .pop-content h1 {
+    display: block;
+    width: 170px;
+    margin: 0 auto;
+    margin-top: 49vh; }
+
+::-webkit-scrollbar {
+  background: #272727; }
+
+::-webkit-scrollbar-thumb {
+  background: #C6C6C6; }

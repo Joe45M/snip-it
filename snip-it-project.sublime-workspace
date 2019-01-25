@@ -1,0 +1,580 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"modal-",
+				"modal-content\t(index.php)"
+			],
+			[
+				"mysqli_",
+				"mysqli_fetch_assoc\t(sw-modules.php)"
+			],
+			[
+				"tem",
+				"temp_id"
+			],
+			[
+				"user",
+				"users_teams"
+			],
+			[
+				"create",
+				"create_team"
+			],
+			[
+				"team_",
+				"team_leader"
+			],
+			[
+				"twi",
+				"twitter"
+			],
+			[
+				"USER",
+				"USER_INFO\t(sw-modules.php)"
+			],
+			[
+				"explode",
+				"explode"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"tounr",
+				"tourn_pp"
+			],
+			[
+				"bron",
+				"bronze-pod\t(tabs.php)"
+			],
+			[
+				"impl",
+				"imploded_value"
+			],
+			[
+				"TOURNA",
+				"TOURNAMENT_INFORMATION"
+			],
+			[
+				"fetch_assoc",
+				"mysql_fetch_assoc"
+			],
+			[
+				"TOUR",
+				"TOURNAMENT_ID"
+			],
+			[
+				"mysq",
+				"mysqli_query\t(sw-modules.php)"
+			],
+			[
+				"rgis",
+				"register.php"
+			],
+			[
+				"mx",
+				"max-width\tproperty"
+			],
+			[
+				"carouse",
+				"carousel-wrap"
+			],
+			[
+				"trans",
+				"translateY"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"cu",
+				"cur\tcursor: ${pointer};"
+			],
+			[
+				"trsd",
+				"trsdu\ttransition-duration: ${1:time};"
+			],
+			[
+				"di",
+				"d-i\tdisplay: inline;"
+			],
+			[
+				"light",
+				"light-grey"
+			],
+			[
+				"logge",
+				"logged_in"
+			],
+			[
+				"logg",
+				"logged_in"
+			],
+			[
+				"Pro",
+				"Promises"
+			],
+			[
+				"re",
+				"resolve"
+			],
+			[
+				"gatews",
+				"gatewise.js\t(complex.html)"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"tran",
+				"transferTenantToModal"
+			],
+			[
+				"apt",
+				"aptnum"
+			],
+			[
+				"save",
+				"saveRowAndRemovePy"
+			],
+			[
+				"key",
+				"keyup"
+			],
+			[
+				"seti",
+				"setTimeout"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"edit",
+				"editState"
+			],
+			[
+				"auto",
+				"autoEdit"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"addnew",
+				"addNewTr"
+			],
+			[
+				"transor",
+				"transform\tproperty"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"acc",
+				"acclog"
+			],
+			[
+				"accel",
+				"accessEl"
+			],
+			[
+				"access",
+				"accessType"
+			],
+			[
+				"new",
+				"newAddress"
+			],
+			[
+				"complex",
+				"complexId"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"call",
+				"calleEditListen"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Install Package Control"
+			],
+			[
+				"instalpa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 199.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/snip-it"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/homglive/register.php",
+		"/C/xampp/htdocs/homglive/sass.bat",
+		"/C/xampp/htdocs/homglive/~register.php",
+		"/C/xampp/htdocs/homglive/style/style.scss",
+		"/C/xampp/htdocs/homglive/incl/modules/nav.php",
+		"/C/xampp/htdocs/homglive/manage-teams/modules/render_teams.php",
+		"/C/xampp/htdocs/homglive/manage-teams/index.php",
+		"/C/xampp/htdocs/homglive/manage-teams/modules/create-team.php",
+		"/C/xampp/htdocs/homglive/tournaments/processors/value_specifier.php",
+		"/C/xampp/htdocs/homglive/index.php",
+		"/C/xampp/htdocs/homglive/tournaments/processors/processor-render-tournaments.php",
+		"/C/xampp/htdocs/homglive/store/new-index.php",
+		"/C/xampp/htdocs/homglive/incl/processors/sw-modules.php",
+		"/C/xampp/htdocs/homglive/node_modules/node-sass/src/create_string.cpp",
+		"/C/xampp/htdocs/homglive/admin/modules/processors/processor-create-tournament.php",
+		"/C/xampp/htdocs/homglive/tournaments/tournament/modules/tourn-nav.php",
+		"/C/xampp/htdocs/homglive/incl/modules/home/home-why-us.php",
+		"/C/xampp/htdocs/homglive/tournaments/tournament/index.php",
+		"/C/xampp/htdocs/homglive/tournaments/tournament/modules/tabs.php",
+		"/C/xampp/htdocs/homglive/incl/processors/db.php",
+		"/C/xampp/htdocs/homglive/incl/processors/sign.php",
+		"/C/xampp/htdocs/homglive/incl/modules/home/home-landing.php",
+		"/C/Users/codbo/Desktop/learning/js/promise.html",
+		"/C/xampp/htdocs/homglive/admin/create-tournament.php",
+		"/C/Users/codbo/Downloads/practice.php",
+		"/C/Users/codbo/Desktop/file.html",
+		"/C/xampp/htdocs/homglive/.ftpquota",
+		"/C/xampp/htdocs/homglive/.htaccess",
+		"/C/xampp/htdocs/homglive/404.php",
+		"/C/xampp/htdocs/homglive/index.html",
+		"/C/xampp/htdocs/homglive/homg.zip",
+		"/C/xampp/htdocs/homglive/New Text Document.txt",
+		"/C/xampp/htdocs/homglive/package.json",
+		"/C/xampp/htdocs/homglive/package-lock.json",
+		"/C/xampp/htdocs/homglive/README.md",
+		"/C/Users/codbo/Desktop/learning/js/async.html",
+		"/C/Users/codbo/Desktop/learning/js/promise.html.txt",
+		"/C/Users/codbo/Desktop/upwork/Gatewise-Portal/mdb/js/addons/mdbEditor.js",
+		"/C/Users/codbo/Desktop/upwork/Gatewise-Portal/assets/style.css",
+		"/C/Users/codbo/Desktop/upwork/Gatewise-Portal/index.html",
+		"/C/Users/codbo/Desktop/upwork/Gatewise-Portal/~complex.html",
+		"/C/Users/codbo/Desktop/table.html",
+		"/C/Users/codbo/Desktop/upwork/Gatewise-Portal/table.html",
+		"/C/Users/codbo/Desktop/upwork/Gatewise-Portal/gatewise.js",
+		"/C/Users/codbo/Desktop/upwork/Gatewise-Portal/complex.html",
+		"/C/Users/codbo/Desktop/upwork/Gatewise-Portal/mdb/js/addons/mdbEditor.min.js",
+		"/C/Users/codbo/Desktop/upwork/Gatewise-Portal/login.html"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"container-ba",
+			"width: 100p",
+			"width: 100",
+			"\"",
+			"=\"",
+			"max",
+			"team-logo",
+			"banner",
+			"TEAM NAME",
+			"alert",
+			"homg-alert",
+			"logo",
+			"name",
+			"team_name",
+			"pillnav",
+			"no-scrol",
+			".num",
+			"#num",
+			"pillnav-noscroll",
+			"PRIZE",
+			"md",
+			"moneys",
+			"tourn_pp",
+			"decode_tournament_type",
+			"region",
+			"platform",
+			"Platform",
+			"platform",
+			"Platform",
+			"platform",
+			"bracketid",
+			"2",
+			"regend",
+			"active",
+			"15px",
+			"store-wra",
+			"merch",
+			"inclu",
+			"landing",
+			"h3",
+			"footer",
+			"btn-grou",
+			"2vh",
+			"<input",
+			"input",
+			"10vh",
+			"<ol class=\"carousel-indicators\">\n\t\t\t\t\t\t    <li data-target=\"#carouselExampleIndicators\" data-slide-to=\"0\" class=\"active\"></li>\n\t\t\t\t\t\t    <li data-target=\"#carouselExampleIndicators\" data-slide-to=\"1\" class=\"\"></li>\n\t\t\t\t\t\t    <li data-target=\"#carouselExampleIndicators\" data-slide-to=\"2\"></li>\n\t\t\t\t\t\t  </ol>",
+			");\n",
+			".title",
+			"title",
+			"<input",
+			"input",
+			">\n",
+			"firebase",
+			"firebae",
+			"initializeApp",
+			"auth",
+			"getComplexesForManager()",
+			"getComplexesForManager",
+			"complexIds",
+			"getComplexesForManager",
+			"ids",
+			"complexIds",
+			"getcomple",
+			"e",
+			"toast",
+			"updatet",
+			"transferTenantToModal",
+			"test",
+			"exampleModalLabel",
+			"basicExampleModal",
+			"listen-",
+			"trig",
+			"save",
+			"saveRow",
+			"iniEdit",
+			"clip",
+			"savea",
+			"');\n",
+			"form-",
+			"check",
+			"autoEdit",
+			"paginate_button",
+			"page-link",
+			"$('body').mousemove(function(){\n      if (editState == 0) {\n        autoEdit()\n        editState = 1;\n      }\n    })",
+			"add",
+			"pag",
+			"pagf",
+			"dtBasicExample1_paginate",
+			"page-item",
+			"';\n",
+			"paginate_button",
+			"page-link",
+			"delete",
+			"remove",
+			"f",
+			"f.",
+			".f",
+			"save",
+			"saveButton",
+			"saveRow",
+			"bind",
+			"activ",
+			"called",
+			"addscr",
+			"addNewColumn",
+			"bind",
+			"buttonWrapper",
+			"addNewColumn",
+			"();\n",
+			"addNewColumn",
+			"go to a ",
+			"body",
+			"h3",
+			"rows",
+			"rot",
+			"roate",
+			"validation_messages",
+			"editRow ",
+			"click",
+			"onclick",
+			"delete",
+			"delere",
+			"cdnjs",
+			"delete",
+			"complex",
+			"'",
+			"editrowand"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 46.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "snip-it-project.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"style",
+				"style\\style.scss"
+			],
+			[
+				"scs",
+				"node_modules\\node-sass\\src\\create_string.cpp"
+			],
+			[
+				"reg",
+				"register.php"
+			],
+			[
+				"sign",
+				"incl\\processors\\sign.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 516.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\cpc\\proj.sublime-project"
+			]
+		],
+		"width": 384.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 417.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

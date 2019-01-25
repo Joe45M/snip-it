@@ -1,0 +1,23 @@
+{
+  "name": "snip-it",
+  "version": "1.0.0",
+  "description": "snip it code base &amp; generator for commonly used HTML code.",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass --watch style/style.scss style/style.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joe45M/snip-it.git"
+  },
+  "author": "Joe Moses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joe45M/snip-it/issues"
+  },
+  "homepage": "https://github.com/Joe45M/snip-it#readme",
+  "dependencies": {
+    "howler": "^2.1.1",
+    "node-sass": "^4.11.0"
+  }
+}

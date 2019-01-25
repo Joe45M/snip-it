@@ -1,0 +1,138 @@
+$dg: #0f0f0f;
+$mg: #272727;
+$lg: #C6C6C6;
+body {
+	background: $dg;
+	color: $lg;
+}
+
+
+// hero
+.heading {
+	padding: 3em 5em;
+	background-image: url('../assets/img/hero.jpg');
+	background-size: cover;
+	background-position: center;
+	p {
+		margin-bottom: 0;
+	}
+	.search-bar {
+		margin-top: 2em;
+		border-radius: 200px;
+		padding: .2rem;
+
+		input {
+			display: inline;
+			width: 100%;
+			padding: 1rem;
+			border-radius: 100px;
+			border: none;
+			background: $dg;
+			color: #fff;
+			&:focus {
+				outline: none;
+				padding: 1rem;
+				color: $lg;
+				font-weight: bold;
+			}
+		}
+	}
+}
+
+//snips 
+.snips {
+	margin-top: 20px;
+	.card {	
+		background: $mg;
+		padding: 0;
+		&-body {
+			padding: .5rem 0;
+			h5 {
+				padding-bottom: .5rem !important;
+				margin-bottom: 0;
+			    box-shadow: 0px 7px 5px rgba(0, 0, 0, .2);
+			    text-transform: uppercase;
+			}
+			p, h5 {
+				padding: 0 1.25rem;
+			}
+			p {
+				padding-top: .5rem !important;
+				max-height: 500px;
+				overflow: auto;
+
+			}
+			pre {
+				color: #fff;
+				max-height: 500px;
+			}
+			button {
+				margin-top: 1.25rem;
+				margin: .625rem;
+				width: 94.5%;
+				background: $dg;
+				border: none;
+			}
+		}
+	}
+}
+
+//text 
+h1.page-title {
+	font-weight: bold;	
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text !important;
+	background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet); 
+	display: inline-block;
+	// fallback 
+	color: inherit;
+
+}
+
+p {
+	color: inherit; 
+}
+
+
+#clip-copy-off-screen {
+    height: 0;
+    width: 0;
+    resize: none;
+    border: none;
+    background: transparent;
+    overflow: hidden;
+    &:focus {
+    	outline: none;
+    	border: none;
+    }
+}
+
+
+.pop-wrap {
+	display: none;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    top: 0;
+    background: $mg;
+    .pop-content {
+    	h1 {
+    		display: block;
+		    width: 170px;
+		    margin: 0 auto;
+		    margin-top: 49vh;
+    	}
+    }
+}
+
+
+// scrolls
+
+::-webkit-scrollbar {
+	background: $mg;
+}
+
+::-webkit-scrollbar-thumb {
+	background: $lg;
+}
