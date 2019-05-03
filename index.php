@@ -5,6 +5,7 @@
     <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"><!-- Bootstrap CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="style/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/libs/prism/prism.css">
     <title>Hello, world!</title>
 </head>
 <body>
@@ -105,8 +106,7 @@
                                 <button class="btn btn-sm btn-primary ctc">
                                     Copy
                                 </button>
-<pre>
-    &lt;select name="year"&gt; 
+<pre><code class="language-html">    &lt;select name="year"&gt; 
         &lt;option value="1940"&gt;1940&lt;/option&gt;
         &lt;option value="1941"&gt;1941&lt;/option&gt;
         &lt;option value="1942"&gt;1942&lt;/option&gt;
@@ -187,6 +187,7 @@
         &lt;option value="2017"&gt;2017&lt;/option&gt;
         &lt;option value="2018"&gt;2018&lt;/option&gt;
     &lt;/select&gt; 
+    </code>
 </pre>  
                             </div>
                         </div>
@@ -207,6 +208,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integtity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integtity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
     <script src="node_modules/howler/dist/howler.js"></script>
+    <script src="assets/libs/prism/prism.js"></script>
     <script src="app.js">
     </script>
 </body>
