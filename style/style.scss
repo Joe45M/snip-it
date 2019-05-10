@@ -40,7 +40,15 @@ body {
 }
 
 //snips 
+.snips-loader {
+	text-align: center;
+	margin-top: 40px;
+	font-weight: bold;
+	font-size: 200%;
+}
 .snips {
+	position: relative;
+	display: none;
 	margin-top: 20px;
 	.card {	
 		background: $mg;
@@ -145,3 +153,4 @@ code[class*="language-"], pre[class*="language-"] {
 :not(pre) > code[class*="language-"], pre[class*="language-"] {
 	background-color: transparent !important;
 }
+

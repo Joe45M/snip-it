@@ -1,3 +1,13 @@
+// fade snips 
+
+setTimeout(function() {
+
+	$('.snips-loader').fadeOut(500);
+	$('.snips').delay(550).fadeIn(500);
+}, 500)
+
+
+
 // search hack
 $('.search-bar input').on('focus', () => ($('.search-bar').css('background', 'linear-gradient(to right, orange , yellow, green, cyan, blue, violet)')));
 $('.search-bar input').on('focusout', () => ($('.search-bar').css('background', 'none')));

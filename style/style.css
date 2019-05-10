@@ -27,7 +27,15 @@ body {
         color: #C6C6C6;
         font-weight: bold; }
 
+.snips-loader {
+  text-align: center;
+  margin-top: 40px;
+  font-weight: bold;
+  font-size: 200%; }
+
 .snips {
+  position: relative;
+  display: none;
   margin-top: 20px; }
   .snips .card {
     background: #272727;
